@@ -7,5 +7,5 @@ Lagos, Nigeria
 2022.09 - Present Computer Science Department of CIS, Covenant University
 
 # Skills
-First language: English
+First language: English\n
 Programming Languages: HTML5, PHP, CSS3, JavaScript, Java, Python
